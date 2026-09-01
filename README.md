@@ -14,7 +14,7 @@
 
 ## About me
 
-I'm a Product Manager and builder with **9 years of experience** across AI, product strategy, and execution. I previously worked at **EdgeTensor** and **Quantiphi** and am currently building **[Manki Studios](https://mankistudios.com)** and **[GraphContract](https://graphcontract.dev)**.
+I'm a Product Manager and builder with **9 years of experience** across AI, product strategy, and execution. I previously worked at **EdgeTensor** and **Quantiphi** and am currently building **[Manki Studios](https://mankistudios.com)** and **[Graph Contract](https://graphcontract.dev)**.
 
 I enjoy turning ambitious ideas into clear product systems: understanding the customer problem, defining the right workflow, aligning people and technology, and shipping something genuinely useful.
 
@@ -24,7 +24,7 @@ I'm currently building **[Manki Studios](https://mankistudios.com)**, an AI UGC 
 
 The goal is to make high-volume ad production faster and more accessible while keeping people in control of the creative decisions.
 
-## GraphContract
+## Graph Contract
 
 I'm currently building **[GraphContract](https://graphcontract.dev)**, a human-controlled visual workspace for designing agent workflows. People edit and approve the graph while external agents inspect the accepted contract and propose structured changes through WebMCP.
 
