@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vijay 👋</h1>
 
 <p align="center">
-  Product Manager and Builder, currently building **[Manki Studios](https://mankistudios.com)** and **[Graph Contract](https://graphcontract.dev)**.
+  Product Manager and Builder, currently building <strong><a href="https://mankistudios.com">Manki Studios</a></strong> and <strong><a href="https://graphcontract.dev">Graph Contract</a></strong>.
 </p>
 
 <p align="center">
