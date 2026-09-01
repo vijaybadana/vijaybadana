@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vijaybadana"><img src="https://img.shields.io/badge/GitHub-vijaybadana-181717?style=flat-square&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/vijay-badana"><img src="https://img.shields.io/badge/LinkedIn-Vijay_Badana-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/vijaybadana"><img src="https://img.shields.io/badge/X-@vijaybadana-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://mankistudios.com"><img src="https://img.shields.io/badge/Manki_Studios-Visit-7C3AED?style=flat-square" alt="Manki Studios" /></a>
