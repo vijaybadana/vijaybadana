@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vijay 👋</h1>
 
 <p align="center">
-  Product Manager and builder with 9 years of experience, currently building Manki Studios and GraphContract.
+  Product Manager and Builder, currently building **[Manki Studios](https://mankistudios.com)** and **[Graph Contract](https://graphcontract.dev)**.
 </p>
 
 <p align="center">
