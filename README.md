@@ -24,19 +24,17 @@ I'm currently building **[Manki Studios](https://mankistudios.com)**, an AI UGC 
 
 The goal is to make high-volume ad production faster and more accessible while keeping people in control of the creative decisions.
 
+## GraphContract
+
+I'm currently building **[GraphContract](https://graphcontract.dev)**, a human-controlled visual workspace for designing agent workflows. People edit and approve the graph while external agents inspect the accepted contract and propose structured changes through WebMCP.
+
+The goal is to help teams build reliable agent workflows where automation can move quickly without taking decision-making control away from people.
+
 ## What I'm building
 
 - An India-first AI creative engine for producing high-volume, performance-oriented video ads
 - Autonomous agent systems that can plan, build, test, deploy, and improve software
 - Human-in-the-loop products where AI can move quickly while people retain final control
-
-## Featured project
-
-### [GraphContract](https://github.com/vijaybadana/graphcontract)
-
-A human-controlled visual workspace for designing agent workflows. People edit and approve the graph; external agents inspect the accepted contract and propose structured changes through WebMCP.
-
-[View the repository](https://github.com/vijaybadana/graphcontract) · [Visit GraphContract](https://graphcontract.dev)
 
 ## Product principles
 
