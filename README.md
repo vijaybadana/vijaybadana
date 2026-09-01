@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vijay 👋</h1>
 
 <p align="center">
-  Product Manager and Founder of Manki Studios, building AI-native creative products and human-controlled agent systems.
+  Product Manager and builder with 9 years of experience, currently building Manki Studios and GraphContract.
 </p>
 
 <p align="center">
@@ -9,17 +9,18 @@
   <a href="https://www.linkedin.com/in/vijay-badana"><img src="https://img.shields.io/badge/LinkedIn-Vijay_Badana-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/vijaybadana"><img src="https://img.shields.io/badge/X-@vijaybadana-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://mankistudios.com"><img src="https://img.shields.io/badge/Manki_Studios-Visit-7C3AED?style=flat-square" alt="Manki Studios" /></a>
+  <a href="https://graphcontract.dev"><img src="https://img.shields.io/badge/GraphContract-Visit-2563EB?style=flat-square" alt="GraphContract" /></a>
 </p>
 
 ## About me
 
-I'm a Product Manager and the founder of **[Manki Studios](https://mankistudios.com)**, with prior experience at **EdgeTensor** and **Quantiphi**. I work at the intersection of AI, product strategy, and execution.
+I'm a Product Manager and builder with **9 years of experience** across AI, product strategy, and execution. I previously worked at **EdgeTensor** and **Quantiphi** and am currently building **[Manki Studios](https://mankistudios.com)** and **[GraphContract](https://graphcontract.dev)**.
 
 I enjoy turning ambitious ideas into clear product systems: understanding the customer problem, defining the right workflow, aligning people and technology, and shipping something genuinely useful.
 
 ## Manki Studios
 
-**[Manki Studios](https://mankistudios.com)** is an AI UGC ad-creation product that helps teams create short-form video ads using 100+ AI actors, AI-assisted scripts, previews, and downloadable creative.
+I'm currently building **[Manki Studios](https://mankistudios.com)**, an AI UGC ad-creation product that helps teams create short-form video ads using 100+ AI actors, AI-assisted scripts, previews, and downloadable creative.
 
 The goal is to make high-volume ad production faster and more accessible while keeping people in control of the creative decisions.
 
@@ -35,7 +36,7 @@ The goal is to make high-volume ad production faster and more accessible while k
 
 A human-controlled visual workspace for designing agent workflows. People edit and approve the graph; external agents inspect the accepted contract and propose structured changes through WebMCP.
 
-[View the repository](https://github.com/vijaybadana/graphcontract) · [Try the app](https://graphcontract.vijaybadana.chatgpt.site)
+[View the repository](https://github.com/vijaybadana/graphcontract) · [Visit GraphContract](https://graphcontract.dev)
 
 ## Product principles
 
@@ -56,6 +57,7 @@ I care about products that are useful before they are impressive: clear ownershi
 ## Connect
 
 - [Manki Studios](https://mankistudios.com)
+- [GraphContract](https://graphcontract.dev)
 - [GitHub](https://github.com/vijaybadana)
 - [LinkedIn](https://www.linkedin.com/in/vijay-badana)
 - [X](https://x.com/vijaybadana)
