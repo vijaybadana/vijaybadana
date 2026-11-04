@@ -6,8 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/vijaybadana"><img src="https://img.shields.io/badge/GitHub-vijaybadana-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/vijay-badana"><img src="https://img.shields.io/badge/LinkedIn-Vijay_Badana-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/vijaybadana/"><img src="https://img.shields.io/badge/LinkedIn-Vijay_Badana-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/vijaybadana"><img src="https://img.shields.io/badge/X-@vijaybadana-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/vijaybadana/"><img src="https://img.shields.io/badge/Instagram-@vijaybadana-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://graphcontract.dev"><img src="https://img.shields.io/badge/Graph_Contract-Visit-2563EB?style=flat-square" alt="Graph Contract" /></a>
 </p>
 
@@ -48,5 +49,6 @@ I care about products that are useful before they are impressive: clear ownershi
 
 - [Graph Contract](https://graphcontract.dev)
 - [GitHub](https://github.com/vijaybadana)
-- [LinkedIn](https://www.linkedin.com/in/vijay-badana)
+- [LinkedIn](https://www.linkedin.com/in/vijaybadana/)
 - [X](https://x.com/vijaybadana)
+- [Instagram](https://www.instagram.com/vijaybadana/)
